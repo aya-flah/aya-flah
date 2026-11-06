@@ -169,6 +169,7 @@ Jul 2025 → Aug 2025   Qartis Technologies · Mobile Developer Intern
 - 🔗 **Hedera Certified Developer Associate (HCDA)** (Oct 2026)
 - 🔗 **Hedera Certified Foundation (HCF)** (Oct 2026)
 - 🎨 NVIDIA, **Generative AI with Diffusion Models** (Oct 2026)
+- 🎨 NVIDIA, **Applications of AI for Predictive Maintenance** (Oct 2026)
 
 </details>
 
